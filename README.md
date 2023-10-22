@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Samet Adsan</h1>
 <h3 align="center">Spring Boot - Spring Security- JPA - Hibernate - RESTful Api - PostgreSQL - Vue.js - Vuex OR Pinia - Vue Router - Quasar Framework - JWT Auth- Google Map Api - Leatleft Map Api - OOP - ORM - SQL - JPQL - Jhipster - React Js - Redux - Liquibase - Postman & SwaggerUI - GitHub - JIRA - HTML5 - CSS - JavaScript - JSON -XML -YML -YAML -Electron - Cordova - i18n -Apexchart.js FULL STACK (Web,MacOs,Windows,Linux,Android,IOS) APP DEVELOPER</h3>
 
-- 🔭 I’m currently working on **MaviKanatlar Company**
+- 🔭 I’m currently working on **Lenora Bilişim Teknolojileri**
 
 - 🌱 I’m currently learning **Spring Boot,React**
 
 - 💬 Ask me about **Vue,Quasar,Spring Boot**
 
-- 📫 How to reach me **adsan.samet.06@gmail.com**
+- 📫 How to reach me **samet.adsan@somposigorta.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
